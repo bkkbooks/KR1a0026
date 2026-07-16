@@ -25,6 +25,7 @@ markers:
   - {type: line-break, offset: 7, content: '', id: KR1a0026_WYG_000-1a04}
   - {type: indent, offset: 7, content: 　　　　, id: KR1a0026_WYG_000-bkkind4}
   - {type: punctuation, offset: 7, content: (, id: KR1a0026_WYG_000-bkkpn1}
+  - {type: voice, offset: 7, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 8, content: /, id: KR1a0026_WYG_000-bkkpn2}
   - {type: punctuation, offset: 8, content: ), id: KR1a0026_WYG_000-bkkpn3}
   - {type: 'kr:newline', offset: 24, content: '
@@ -136,12 +137,15 @@ markers:
   - {type: line-break, offset: 336, content: '', id: KR1a0026_WYG_000-2a08}
   - {type: indent, offset: 336, content: 　　　　　　　, id: KR1a0026_WYG_000-bkkind24}
   - {type: punctuation, offset: 339, content: (, id: KR1a0026_WYG_000-bkkpn4}
+  - {type: voice, offset: 339, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 340, content: /, id: KR1a0026_WYG_000-bkkpn5}
   - {type: punctuation, offset: 340, content: ), id: KR1a0026_WYG_000-bkkpn6}
   - {type: punctuation, offset: 342, content: (, id: KR1a0026_WYG_000-bkkpn7}
+  - {type: voice, offset: 342, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 343, content: /, id: KR1a0026_WYG_000-bkkpn8}
   - {type: punctuation, offset: 343, content: ), id: KR1a0026_WYG_000-bkkpn9}
   - {type: punctuation, offset: 346, content: (, id: KR1a0026_WYG_000-bkkpn10}
+  - {type: voice, offset: 346, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 347, content: /, id: KR1a0026_WYG_000-bkkpn11}
   - {type: punctuation, offset: 347, content: ), id: KR1a0026_WYG_000-bkkpn12}
   - {type: 'kr:newline', offset: 350, content: '
@@ -157,6 +161,7 @@ markers:
   - {type: indent, offset: 352, content: 　, id: KR1a0026_WYG_000-bkkind27}
   - {type: indent, offset: 353, content: 　, id: KR1a0026_WYG_000-bkkind28}
   - {type: punctuation, offset: 353, content: (, id: KR1a0026_WYG_000-bkkpn13}
+  - {type: voice, offset: 353, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 354, content: /, id: KR1a0026_WYG_000-bkkpn14}
   - {type: punctuation, offset: 354, content: ), id: KR1a0026_WYG_000-bkkpn15}
   - {type: indent, offset: 354, content: 　, id: KR1a0026_WYG_000-bkkind29}
@@ -307,4 +312,4 @@ markers:
 
       ', id: KR1a0026_WYG_000-bkkp1}
   back: []
-hash: sha256:9b634fec1a7f466fdd229c49a543f963ec37638f7b9716e2d633c76312283414
+hash: sha256:0204167b755980d66bff482ee80a63d8fda1095eea0a6d11f0e6c9a0805a74f8
